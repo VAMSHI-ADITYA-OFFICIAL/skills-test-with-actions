@@ -8,7 +8,7 @@ permissions:
     pull-requests: write
 
 jobs:
-    python_coverage:
+    python-coverage:
         runs-on: ubuntu-latest
 
         steps:
